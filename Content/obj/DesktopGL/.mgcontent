@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/ohj1/harkka/harkkaa/Testi/Testi/Content/kentta1.txt</File>
+    <File>C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/ohj1/harkka/harkkaa/Testi/Testi/Content/maali.wav</File>
+    <File>C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/ohj1/harkka/harkkaa/Testi/Testi/Content/norsu.png</File>
+    <File>C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/ohj1/harkka/harkkaa/Testi/Testi/Content/tahti.png</File>
+    <File>C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/ohj1/harkka/harkkaa/Testi/Testi/Content/herkku.png</File>
+    <File>C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/ohj1/harkka/harkkaa/Testi/Testi/Content/keltainen_saalis.png</File>
+    <File>C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/ohj1/harkka/harkkaa/Testi/Testi/Content/kisu.png</File>
+    <File>C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/ohj1/harkka/harkkaa/Testi/Testi/Content/koira.png</File>
+    <File>C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/ohj1/harkka/harkkaa/Testi/Testi/Content/petolintu.png</File>
+    <File>C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/ohj1/harkka/harkkaa/Testi/Testi/Content/punainen_saalis.png</File>
+    <File>C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/ohj1/harkka/harkkaa/Testi/Testi/Content/keltainensaalis.png</File>
+    <File>C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/ohj1/harkka/harkkaa/Testi/Testi/Content/maali.png</File>
+    <File>C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/ohj1/harkka/harkkaa/Testi/Testi/Content/punainensaalis.png</File>
+    <File>C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/ohj1/harkka/harkkaa/Testi/Testi/Content/tausta.png</File>
+    <File>C:/Users/petra/OneDrive/Documents/Opiskelu/Kurssit/ohj1/harkka/harkkaa/Testi/Testi/Content/taustamusa.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>
